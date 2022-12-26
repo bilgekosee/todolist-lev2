@@ -1,6 +1,6 @@
 # todolist-lev2
 
-## Geliştirilmiş yapılacaklar listesi kişisel ya da iş kategorisi bulunuyor yapacağın işi seçip yaptıktan sonra silmeni sağlayan site
+## Geliştirilmiş yapılacaklar listesi kişisel ya da iş kategorisi bulunan yapacağın işi seçip yaptıktan sonra silmeni sağlayan site
 
 *Enhanced to-do list has personal or business category*
 
